@@ -1,9 +1,9 @@
-<?php require_once __DIR__ . '/../../odawa-vip-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
+<?php require_once __DIR__ . '/../../silver-nugget-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <title>VIP Preferred Rewards</title>
-    <?php require_once __DIR__ . '/../../odawa-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
+    <?php require_once __DIR__ . '/../../silver-nugget-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=odawa-vip&client_id=3facff723969f64585f8fcdeacf6da34" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=silver-nugget&client_id=06ca97ce756f91bcdc848e4feed74c79" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
