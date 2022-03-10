@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=silver-nugget&client_id=3facff723969f64585f8fcdeacf6da34" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=silver-nugget&client_id=06ca97ce756f91bcdc848e4feed74c79" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
